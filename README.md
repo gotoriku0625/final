@@ -8,4 +8,4 @@
 
 システム名　:漫画システム
 
-URL　　　:http://aso2201147.tonkotsu.jp/kojin/index.php
+URL　　　:http://aso2201147.tonkotsu.jp/kojin/itiran.php
